@@ -40,6 +40,40 @@ I'm particularly interested in:
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
+</p>
+
+### AI / Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,mongodb,postgres,mysql" />
+</p>
+
+### Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,docker" />
+</p>
+
+---
+
 ##  What I Build
 
 I like turning ideas and research concepts into usable applications.
@@ -113,40 +147,6 @@ A smart expense management platform combining automation, analytics and AI.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
-</p>
-
-### AI / Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,mongodb,postgres,mysql" />
-</p>
-
-### Tools & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,docker" />
-</p>
-
----
-
 ## 🧠 Currently Exploring
 
 ```text
@@ -196,31 +196,15 @@ Current areas of interest:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=4F8DF7&text_color=E5E7EB&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pranjalpatil31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=4F8DF7&text_color=E5E7EB&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranjalpatil31&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-
-<a href="YOUR_TRUTHGUARD_REPO">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=YOUR_USERNAME&repo=TRUTHGUARD_REPO&theme=transparent&hide_border=true" />
-</a>
-
-<a href="YOUR_PROMPT2UI_REPO">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROMPT2UI_REPO&theme=transparent&hide_border=true" />
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalpatil31&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
