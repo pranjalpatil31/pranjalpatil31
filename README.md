@@ -165,6 +165,18 @@ A smart financial management application combining automation, analytics and AI-
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pranjalpatil31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=4F8DF7&text_color=E5E7EB&rank_icon=github" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranjalpatil31&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" alt="Top Languages"/>
+</p>
+
+---
+
 # 🧠 Currently Exploring
 
 ```text
@@ -194,47 +206,6 @@ I'm currently strengthening my knowledge in:
 * Cloud Computing
 * System Design
 * AI Evaluation
-
----
-
-# 🔬 Research Interests
-
-I'm particularly interested in research problems that make AI systems **more reliable, explainable and useful**.
-
-### Areas of Interest
-
-* 🛡️ LLM Hallucination Detection
-* 🔎 Retrieval-Augmented Generation
-* 📊 Uncertainty Estimation
-* 🤖 AI Reliability & Evaluation
-* 🔄 Reinforcement Learning for LLMs
-* ⚙️ Autonomous Feature Engineering
-* 🎯 Intelligent Recommendation Systems
-* 🧠 AI-based Optimization
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pranjalpatil31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=4F8DF7&text_color=E5E7EB&rank_icon=github" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranjalpatil31&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalpatil31&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranjalpatil31/pranjalpatil31/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
 
 ---
 
