@@ -1,158 +1,178 @@
-<h1 align="center">Hi, I'm Pranjal Patil </h1>
+<h1 align="center">Hi, I'm Pranjal Patil 👋</h1>
 
 <p align="center">
-  <b>AI & Data Science Student • Developer • AI Builder • Problem Solver • Lifelong Learner</b>
+  <b>AI & Data Science Student • Developer • AI Builder • Problem Solver</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pranjal-patil-275888373/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building%20with%20AI-4F8DF7?style=for-the-badge" />
+  <a href="https://github.com/pranjalpatil31">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:pranjalpatil0705@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Exploring+LLMs+%26+Intelligent+Systems;Learning+by+Building;Turning+Ideas+into+Working+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+LLMs+%26+Generative+AI;Researching+Reliable+AI;Turning+Ideas+into+Working+Projects;Learning+%7C+Building+%7C+Improving" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranjalpatil31&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
- I'm a **B.E. Artificial Intelligence & Data Science student** passionate about building practical and intelligent software.
+I'm a **B.E. Artificial Intelligence & Data Science student** passionate about building practical and intelligent software.
 
- I enjoy working at the intersection of **Artificial Intelligence, Data Science, Web Development, and Research**.
+I enjoy working at the intersection of:
 
- My approach is simple:
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Large Language Models & Generative AI
+* 🛡️ AI Reliability & Hallucination Detection
+* 🌐 Full-Stack Web Development
+* 📊 Data Science & Analytics
+* 🔬 Research-oriented AI projects
+* ☁️ Cloud & Application Deployment
 
-> **Learn → Build → Break → Understand → Improve**
+My approach to learning:
 
-I'm particularly interested in:
+```text
+Learn → Build → Break → Understand → Improve
+```
 
-*  Artificial Intelligence & Machine Learning
-*  Large Language Models & Generative AI
-*  Hallucination Detection & AI Reliability
-*  Full-Stack Web Development
-*  Data Science & Analytics
-*  Research-oriented projects
-*  Building practical AI-powered systems
+> **I don't just learn technologies — I build with them.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" alt="Languages"/>
 </p>
 
-### AI / Data Science
+### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI ML"/>
 </p>
 
-### Frontend
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend"/>
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,mongodb,postgres,mysql" alt="Backend"/>
 </p>
 
-### Tools & Cloud
+### ☁️ Tools & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,docker" alt="Tools"/>
 </p>
 
 ---
 
-##  What I Build
+# 🚀 Featured Projects
 
-I like turning ideas and research concepts into usable applications.
+## 🛡️ TruthGuard
 
-### 🛡️ TruthGuard
+### Heterogeneous Hallucination Detection Framework for LLM Responses
 
-**Heterogeneous Hallucination Detection Framework for LLM Responses**
+A research-oriented framework designed to evaluate the reliability of LLM-generated responses using multiple complementary verification techniques.
 
-A research-oriented framework designed to evaluate the reliability of LLM-generated responses using multiple verification approaches.
+**Key Features**
 
-**Highlights:**
+* 🔍 Black-box consistency scoring
+* 🎯 White-box token confidence
+* ⚖️ LLM-as-a-Judge evaluation
+* 🌐 External web grounding
+* 📊 Truth Score
+* 📈 Confidence Score
+* 🚨 Hallucination Probability
 
-* Black-box consistency scoring
-* White-box token confidence
-* LLM-as-a-Judge evaluation
-* External web grounding
-* Truth Score & Hallucination Probability
-
----
-
-### 🎨 Prompt2UI
-
-**Prompt-Driven Real-Time AI System for Mobile UI Generation**
-
-An AI-powered application that converts natural-language prompts into mobile UI designs.
-
-**Highlights:**
-
-* Prompt-based UI generation
-* AI integration
-* Customizable layouts and themes
-* Interactive mobile device preview
-* Image integration
-* PNG export
+**Focus:** Reliable & Trustworthy AI
 
 ---
 
-### 📈 PragatiIQ
+## 🎨 Prompt2UI
 
-**AI-Powered Career Assistant**
+### Prompt-Driven Real-Time AI System for Mobile UI Generation
 
-A career-focused platform designed to help students improve their job preparation.
+An AI-powered system that converts natural-language prompts into interactive mobile UI designs.
 
-**Features include:**
+**Key Features**
 
-* Resume Builder
-* ATS Optimization
-* Cover Letter Generation
-* Mock Interview Generation
-* Skill Gap Analysis
-* Industry Insights
+* 💬 Prompt-based UI generation
+* 🤖 AI integration
+* 🎨 Customizable themes & layouts
+* 📱 Interactive mobile device preview
+* 🖼️ Image integration
+* 📤 PNG export
 
----
-
-### 💰 BudgetIQ
-
-**AI-Enhanced Personal Expense Management**
-
-A smart expense management platform combining automation, analytics and AI.
-
-**Features include:**
-
-* Expense tracking
-* Receipt scanning
-* Financial analytics
-* Interactive dashboards
-* Recurring transactions
-* CSV import
-* Monthly reports
-* Secure authentication
+**Focus:** Generative AI + UI Engineering
 
 ---
 
-## 🧠 Currently Exploring
+## 📈 PragatiIQ
+
+### AI-Powered Career Assistant
+
+An intelligent career platform designed to help students improve their job preparation and career readiness.
+
+**Features**
+
+* 📄 AI Resume Builder
+* 🎯 ATS Optimization
+* ✉️ Cover Letter Generation
+* 🎤 Mock Interview Generation
+* 📊 Skill Gap Analysis
+* 💼 Industry Insights
+
+**Focus:** AI + Career Technology
+
+---
+
+## 💰 BudgetIQ
+
+### AI-Enhanced Expense Management Platform
+
+A smart financial management application combining automation, analytics and AI-powered insights.
+
+**Features**
+
+* 💳 Expense Tracking
+* 🧾 AI Receipt Scanning
+* 📊 Financial Analytics
+* 📈 Interactive Dashboards
+* 🔄 Recurring Transactions
+* 📁 CSV Import
+* 📧 Monthly Reports
+* 🔐 Secure Authentication
+
+**Focus:** AI + FinTech + Analytics
+
+---
+
+# 🧠 Currently Exploring
 
 ```text
 Artificial Intelligence
         ↓
 Machine Learning
+        ↓
+Deep Learning
         ↓
 LLMs & Generative AI
         ↓
@@ -163,111 +183,117 @@ Hallucination Detection
 Reliable & Trustworthy AI
 ```
 
-I'm continuously strengthening my fundamentals in:
+I'm currently strengthening my knowledge in:
 
 * Data Structures & Algorithms
 * Machine Learning
 * Deep Learning
-* NLP
+* Natural Language Processing
 * Database Systems
 * Distributed Computing
-* Cloud & Deployment
+* Cloud Computing
 * System Design
+* AI Evaluation
 
 ---
 
-## 🔬 Research Interests
+# 🔬 Research Interests
 
-I'm especially interested in research problems where AI systems need to become **more reliable, explainable and useful**.
+I'm particularly interested in research problems that make AI systems **more reliable, explainable and useful**.
 
-Current areas of interest:
+### Areas of Interest
 
-🔹 LLM Hallucination Detection
-🔹 Retrieval-Augmented Generation
-🔹 Uncertainty Estimation
-🔹 AI Reliability & Evaluation
-🔹 Reinforcement Learning for LLMs
-🔹 Autonomous Feature Engineering
-🔹 Intelligent Recommendation Systems
-🔹 AI-based Optimization
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pranjalpatil31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=4F8DF7&text_color=E5E7EB&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranjalpatil31&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalpatil31&theme=tokyonight&hide_border=true" />
-</p>
+* 🛡️ LLM Hallucination Detection
+* 🔎 Retrieval-Augmented Generation
+* 📊 Uncertainty Estimation
+* 🤖 AI Reliability & Evaluation
+* 🔄 Reinforcement Learning for LLMs
+* ⚙️ Autonomous Feature Engineering
+* 🎯 Intelligent Recommendation Systems
+* 🧠 AI-based Optimization
 
 ---
 
-## 🌱 My Development Philosophy
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pranjalpatil31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=4F8DF7&text_color=E5E7EB&rank_icon=github" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranjalpatil31&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalpatil31&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranjalpatil31/pranjalpatil31/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+---
+
+# 🌱 Development Philosophy
 
 > **Don't just learn technologies. Build with them.**
 
-I believe the best way to learn is to take an idea, turn it into a project, face the problems that come with it, and understand how to solve them.
+I believe the best way to learn is to take an idea, turn it into a project, face the problems that come with it, understand why things break, and improve the solution.
 
 ```text
-Learn
-  ↓
-Experiment
-  ↓
-Build
-  ↓
-Fail
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Build Again 🚀
+        Learn
+          ↓
+      Experiment
+          ↓
+        Build
+          ↓
+        Fail
+          ↓
+       Debug
+          ↓
+      Understand
+          ↓
+       Improve
+          ↓
+    Build Again 🚀
 ```
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 * 📚 Strengthen core CS & AI fundamentals
 * 🤖 Build production-ready AI applications
 * 🔬 Work on meaningful AI research
-* 🌐 Improve full-stack development skills
+* 🌐 Improve full-stack development
 * 🧩 Solve challenging DSA problems
-* 🚀 Build projects that solve real problems
+* ☁️ Build and deploy scalable applications
+* 🚀 Create technology that solves real problems
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
-
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pranjal-patil-275888373)">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-</a>
-&nbsp;&nbsp;
-
-<a href="[https://github.com/YOUR_USERNAME](https://github.com/pranjalpatil31/pranjalpatil31/)">
-  <img src="https://skillicons.dev/icons?i=github" width="48" />
-</a>
-&nbsp;&nbsp;
-
-<a href="mailto:pranjalpatil0705@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48" />
-</a>
-
+  <a href="https://www.linkedin.com/in/pranjal-patil-275888373/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pranjalpatil31">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:pranjalpatil0705@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Always learning. Always building. 🚀</b>
+  <b>Always Learning • Always Building • Always Improving 🚀</b>
 </p>
 
 <p align="center">
